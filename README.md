@@ -89,13 +89,14 @@ The notebook includes:
 ## Team
 | Name | Student ID | Role |
 |---|---|---|
+| Joy Owusu Ansah | 11341365 | Group Leader|
+
 | Emelia Ampofo | 11288825 | Member |
-| Sonia Selassie Dean-Snowden | 11120331 | Lead Developer |
+| Sonia Selassie Dean-Snowden | 11120331 | Member |
 | Samson Gyampoh | 11257581 | Member |
 | Nyamekye Korsah | 11353306 | Member|
 | Desmond Opoku Anane | 11126586 | Member |
 | Reuben Addo | 11019527 | Member|
-| Joy Owusu Ansah | 11341365 | Group Leader|
 | Nyarko Rudolf | 11297285 |Member|
 
 ## License
