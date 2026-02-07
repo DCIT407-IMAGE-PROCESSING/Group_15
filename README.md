@@ -89,14 +89,14 @@ The notebook includes:
 ## Team
 | Name | Student ID | Role |
 |---|---|---|
-| Emelia Ampofo | 11288825 | Project Lead & Documentation |
+| Emelia Ampofo | 11288825 | Member |
 | Sonia Selassie Dean-Snowden | 11120331 | Lead Developer |
-| Samson Gyampoh | 11257581 | Research & Analysis |
-| Nyamekye Korsah | 11353306 | Data & Testing |
-| Desmond Opoku Anane | 11126586 | Quality Assurance |
-| Reuben Addo | 11019527 | Presentation Lead |
-| Joy Owusu Ansah | 11341365 | Documentation Assistant |
-| Nyarko Rudolf | 11297285 | Research Assistant |
+| Samson Gyampoh | 11257581 | Member |
+| Nyamekye Korsah | 11353306 | Member|
+| Desmond Opoku Anane | 11126586 | Member |
+| Reuben Addo | 11019527 | Member|
+| Joy Owusu Ansah | 11341365 | Group Leader|
+| Nyarko Rudolf | 11297285 |Member|
 
 ## License
 Educational use only for DCIT407. Contact the team for any other use.
@@ -104,13 +104,7 @@ Educational use only for DCIT407. Contact the team for any other use.
 ## Contact
 | Team Member | GitHub | Email | Role |
 |---|---|---|---|
-| Joy Owusu Ansah | aduuuna | owusujoyansah@gmail.com | Documentation Assistant |
-| Samson Gyampoh | CodesOnCodes | gyampohsamson@gmail.com | Research & Analysis |
-| Desmond Opoku Anane | doanane | anane365221@gmail.com | Quality Assurance |
-| Nyamekye Korsah | NyamekyeKorsah-lab | nkorsah001@st.ug.edu.gh | Data & Testing |
-| Emelia Ampofo | Emilyny-sudo | eampofo601@gmail.com | Project Lead |
-| Sonia Selassie Dean-Snowden | Snowels | soniasnowden8@gmail.com | Lead Developer |
-| Nyarko Rudolf | Rudolf-Nyarko | nyarkorudolf9@gmail.com | Research Assistant |
+| Joy Owusu Ansah | aduuuna | owusujoyansah@gmail.com | Group Leader |
 
 **Course Instructor:** Prof. Ebenezer Owusu  
 **Department:** Computer Science, University of Ghana, Legon
