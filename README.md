@@ -96,7 +96,6 @@ The notebook includes:
 | Nyamekye Korsah | 11353306 | Member|
 | Desmond Opoku Anane | 11126586 | Member |
 | Reuben Addo | 11019527 | Member|
-
 | Nyarko Rudolf | 11297285 |Member|
 
 ## License
