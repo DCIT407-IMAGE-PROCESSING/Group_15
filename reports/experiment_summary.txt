@@ -1,0 +1,17 @@
+DCIT407 - Object Shape Enhancement Project
+Group 15 - Experiment Summary
+==================================================
+
+Date: 2026-02-14
+Number of experiments: 7
+Kernel sizes tested: [1, 3, 5, 7, 9, 11]
+Kernel shapes tested: ['rect', 'ellipse', 'cross']
+
+Experiments completed:
+1. Opening for noise removal
+2. Closing for gap filling
+3. Combined operations
+4. Real-world images
+5. Parameter sensitivity
+6. Kernel shape comparison
+7. Grayscale morphology
