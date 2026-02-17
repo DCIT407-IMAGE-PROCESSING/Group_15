@@ -1,8 +1,7 @@
 DCIT407 - Object Shape Enhancement Project
 Group 15 - Experiment Summary
-==================================================
 
-Date: 2026-02-14
+Date: 2026-02-18
 Number of experiments: 7
 Kernel sizes tested: [1, 3, 5, 7, 9, 11]
 Kernel shapes tested: ['rect', 'ellipse', 'cross']
